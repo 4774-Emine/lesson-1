@@ -2,5 +2,5 @@ Kek recipes :
 1.Süt
 2.Yumurta
 3.Un
-4.kakao
-5.yağ
+4.su
+5.vanilin
